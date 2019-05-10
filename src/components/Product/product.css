@@ -1,0 +1,70 @@
+.medButton{
+    color: #1DD1A1;
+    font-weight: bold;
+    font-size: 15px;
+    background: #fff;
+    margin-left: 3%;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.17);
+    border: 2px solid;
+    border-color: #1DD1A1;
+    margin-top: 18px;
+    }
+    .mediumButton{
+      font-weight: bold;
+      font-size: 15px;
+      background: #fff;
+      text-align: center;
+      border-radius: 5px;
+      box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.17);
+      width: 150px;
+      height: 40px;
+      border: 2px solid;
+      margin-left: 1%;
+      margin-top: 10px;
+      border-color: #576574;
+      color: #576574;
+    }
+    .fullname{
+        float: right;
+        margin-top: 28px;
+        margin-right: 5%;
+      }
+      .select-products{
+        float: right;
+       margin-right: 5%;
+       margin-top: 1%;
+       width: 120px;
+       height: 30px;
+       border-radius: 5px;
+       border: 2px solid;
+       border-color: gray;
+       color: gray;
+       display: inline; 
+      }
+      .fixed-green-buttons{
+        width: 200px;
+        height: 50px;
+        background: green;
+        float: right;
+        color: #fff;
+        border-radius: 5px;
+      }
+      .fixed-gray-buttons{
+        width: 200px;
+        height: 50px;
+        float: right;
+        background: gray;
+        color: #fff;
+        border-radius: 5px;
+        margin-top:10px;
+      }
+      .fixed-buttons{
+        position: fixed;
+        bottom: 100px;
+        right: 100px;
+        width: 200px;
+      }
